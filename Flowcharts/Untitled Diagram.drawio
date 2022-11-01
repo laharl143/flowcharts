@@ -1,49 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T01:53:15.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="YiX8o8fwkWbArF5wXTHo" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T02:05:43.005Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nXLlqkzK1EsN05CtlT5f" version="20.4.2" type="github">
   <diagram id="f9rIMSUl4P8Vg4ZUSex2" name="Page-1">
-    <mxGraphModel dx="1114" dy="1074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="780" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7wIFLAP0Azn-rQAQZ-es-1" target="7wIFLAP0Azn-rQAQZ-es-2">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7wIFLAP0Azn-rQAQZ-es-1" target="7wIFLAP0Azn-rQAQZ-es-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="100" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="7wIFLAP0Azn-rQAQZ-es-2" target="7wIFLAP0Azn-rQAQZ-es-6">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="7wIFLAP0Azn-rQAQZ-es-2" target="7wIFLAP0Azn-rQAQZ-es-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-2" value="numOne = 0;&lt;br&gt;numTwo = 0;&lt;br&gt;sum = 0;" style="verticalLabelPosition=middle;verticalAlign=middle;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.2;direction=west;html=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-2" value="numOne = 0;&lt;br&gt;numTwo = 0;&lt;br&gt;sum = 0;" style="verticalLabelPosition=middle;verticalAlign=middle;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.2;direction=west;html=1;labelBorderColor=none;labelBackgroundColor=none;fontColor=default;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="220" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="7wIFLAP0Azn-rQAQZ-es-6" target="7wIFLAP0Azn-rQAQZ-es-8">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="7wIFLAP0Azn-rQAQZ-es-6" target="7wIFLAP0Azn-rQAQZ-es-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-6" value="INPUT numOne. numTwo, sum" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;direction=west;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-6" value="INPUT numOne. numTwo, sum" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;direction=west;" parent="1" vertex="1">
           <mxGeometry x="320" y="360" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=default;" edge="1" parent="1" source="7wIFLAP0Azn-rQAQZ-es-8" target="7wIFLAP0Azn-rQAQZ-es-18">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=default;" parent="1" source="7wIFLAP0Azn-rQAQZ-es-8" target="7wIFLAP0Azn-rQAQZ-es-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-8" value="sum = numOne + numTwo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-8" value="sum = numOne + numTwo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="340" y="500" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" edge="1" parent="1" source="7wIFLAP0Azn-rQAQZ-es-12" target="7wIFLAP0Azn-rQAQZ-es-14">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=default;" parent="1" source="7wIFLAP0Azn-rQAQZ-es-12" target="7wIFLAP0Azn-rQAQZ-es-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-12" value="OUTPUT ave" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;direction=west;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-12" value="OUTPUT ave" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;direction=west;" parent="1" vertex="1">
           <mxGeometry x="320" y="790" width="140" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-14" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-14" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="940" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-17" value="Make a flowchart: Add two numbers" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-17" value="Make a flowchart: Add two numbers" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;fontSize=30;" parent="1" vertex="1">
           <mxGeometry x="150" y="30" width="500" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=default;" edge="1" parent="1" source="7wIFLAP0Azn-rQAQZ-es-18" target="7wIFLAP0Azn-rQAQZ-es-12">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=30;fontColor=default;" parent="1" source="7wIFLAP0Azn-rQAQZ-es-18" target="7wIFLAP0Azn-rQAQZ-es-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7wIFLAP0Azn-rQAQZ-es-18" value="ave = sum / 2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="7wIFLAP0Azn-rQAQZ-es-18" value="ave = sum / 2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;labelBorderColor=none;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="340" y="640" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
